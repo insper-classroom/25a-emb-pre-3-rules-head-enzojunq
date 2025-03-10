@@ -4,3 +4,6 @@
 #define FOO_H
 
 int foo(int b);
+
+
+#endif
